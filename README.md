@@ -1,8 +1,8 @@
 ### Hi there, I'm Vatsal Unadkat
 
 - 🔭 Studied B.Tech in Computer Enginnering at College of Engineering, Pune
-- 🌱 Currently training to be a full stack developer 
-- 🥅 2021 Goals: Contribute to any one Open Source project
+- 🌱 Currently working as a Backend and DevOps Developer
+- 🥅 2022 Goals: Contribute to any one Open Source project
 
 
 ### Connect with me:
