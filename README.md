@@ -19,18 +19,32 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
 
 ### 🛠 &nbsp;Languages and Tools :
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-</p>
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel logo" title="Laravel" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 logo" title="CSS3" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android logo" title="Android" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java logo" title="Java" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo" title="git" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white" alt="Creative Cloud" title="Creative Cloud" height="25" />][tech_tools_anchor]
+&nbsp;
 
 ---
 
@@ -46,19 +60,27 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
  
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=vatsalunadkat&count_private=true&show_icons=true&theme=dracula) -->
 
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalunadkat&theme=blue-green)](https://git.io/streak-stats) -->
+
 ---
 
 ### ✍️ Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-- [My IMB Data Science Project](https://medium.com/@vatsalunadkat/my-data-science-project-blog-467e6cc316ad)
-- [Comparing ARM Architecture Version ARMv1 to ARMv7](https://medium.com/@vatsalunadkat/comparing-arm-architecture-version-armv1-to-armv7-acfad715e6f2)
-- [Learning AI - My Journey](https://medium.com/@vatsalunadkat/learning-ai-9ba2b0454e93)
-<!-- BLOG-POST-LIST:END -->
+
+<a target="_blank" href="https://medium.com/@vatsalunadkat/comparing-arm-architecture-version-armv1-to-armv7-acfad715e6f2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vatsalunadkat/0" alt="Recent Article on medium 1"></img></a>
+<a target="_blank" href="https://medium.com/@vatsalunadkat/my-data-science-project-blog-467e6cc316ad"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vatsalunadkat/1" alt="Recent Article on medium 2"></img></a>
+<a target="_blank" href="https://medium.com/@vatsalunadkat/learning-ai-9ba2b0454e93"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vatsalunadkat/3" alt="Recent Article on medium 3"></img></a>
 
 ---
 
 ### 🔗 Connect with me:
 
-- <a href="https://in.linkedin.com/in/vatsalunadkat">LinkedIn</a>
-- <a href="https://www.youtube.com/channel/UCbnjYccwlmFnU2beEtHA6kg">Youtube</a>
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://in.linkedin.com/in/vatsalunadkat)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium logo" title="Medium" height="25" />](https://medium.com/@vatsalunadkat)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube logo" height="25" />](https://www.youtube.com/channel/UCbnjYccwlmFnU2beEtHA6kg)
+
+
+
+[tech_tools_anchor]: #top
+[learning_now_anchor]: #top
+[learning_next_anchor]: #top
 
