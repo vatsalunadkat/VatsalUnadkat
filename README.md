@@ -11,7 +11,7 @@
 I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Software Engineer and contributing to the Backend and DevOps prats for building applications.
-- 🌱 Training to become a Product Enginner.
+- 🌱 Training to become a Product Enginner. Currently learning [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="JavaScript" height="20" />][tech_tools_anchor].
 - ⚡ In my free time I go for long drives and post videos on <a href="https://www.youtube.com/channel/UCbnjYccwlmFnU2beEtHA6kg">YouTube</a> about my adventures.
 - 🥅 2022 Goals: Contribute to any one Open Source project
 
