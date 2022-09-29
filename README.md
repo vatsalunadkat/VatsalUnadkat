@@ -51,9 +51,6 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
 ### 🔥 &nbsp; <a href="https://github.com/vatsalunadkat"> My Stats: </a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vatsalunadkat&theme=dark)](https://git.io/streak-stats)
 
-### 🔥 &nbsp; <a href="https://github.com/vatsalunadkatmindstix"> My Work Stats: </a>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vatsalunadkatmindstix&theme=dark&background=000000)](https://git.io/streak-stats)
-
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalunadkat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
