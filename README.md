@@ -11,7 +11,7 @@
 I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - 🔭 I’m working as a Software Engineer and contributing to the Backend and DevOps parts for building applications.
-- 🌱 Training to become a Product Enginner. Currently learning [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="JavaScript" height="20" />][tech_tools_anchor].
+- 🌱 Training to become a Product Enginner. Currently learning [<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django logo" title="Django" height="20" />][tech_tools_anchor] and [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="20" />][tech_tools_anchor].
 - ⚡ In my free time I go for long drives and post videos on <a href="https://www.youtube.com/channel/UCbnjYccwlmFnU2beEtHA6kg">YouTube</a> about my adventures.
 - 🥅 2022 Goals: Contribute to any one Open Source project
 
@@ -19,13 +19,15 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
 
 ### 🛠 &nbsp;Languages and Tools :
 
+[<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django logo" title="Django" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js logo" title="Node.js" height="25" />][learning_next_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP logo" title="PHP" height="25" />][tech_tools_anchor]
 &nbsp;
@@ -72,8 +74,9 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
 ### 🔗 Connect with me:
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://in.linkedin.com/in/vatsalunadkat)
+[<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode logo" title="Leetcode" height="25" />](https://leetcode.com/vatsalunadkat)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium logo" title="Medium" height="25" />](https://medium.com/@vatsalunadkat)
-[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube logo" height="25" />](https://www.youtube.com/channel/UCbnjYccwlmFnU2beEtHA6kg)
+[<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube logo" height="25" />](https://www.youtube.com/@vatsalunadkat)
 
 
 
