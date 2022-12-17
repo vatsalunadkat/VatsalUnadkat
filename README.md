@@ -63,7 +63,7 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
 
 ---
 
-### ✍️ Blog Posts :
+### ✍️ Blog Posts (Outdated):
 
 <a target="_blank" href="https://medium.com/@vatsalunadkat/comparing-arm-architecture-version-armv1-to-armv7-acfad715e6f2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vatsalunadkat/0" alt="Recent Article on medium 1"></img></a>
 <a target="_blank" href="https://medium.com/@vatsalunadkat/my-data-science-project-blog-467e6cc316ad"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@vatsalunadkat/1" alt="Recent Article on medium 2"></img></a>
