@@ -13,7 +13,7 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
 - 🔭 I’m working as a Software Engineer and contributing to the Backend and DevOps parts for building applications.
 - 🌱 Training to become a Product Enginner. Currently learning [<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django logo" title="Django" height="20" />][tech_tools_anchor] and [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="20" />][tech_tools_anchor].
 - ⚡ In my free time I go for long drives and post videos on <a href="https://www.youtube.com/channel/UCbnjYccwlmFnU2beEtHA6kg">YouTube</a> about my adventures.
-- 🥅 2022 Goals: Contribute to any one Open Source project
+- 🥅 2023 Goals: Contribute to any one Open Source project
 
 ---
 
