@@ -1,22 +1,19 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=vatsalunadkat&style=flat-square&color=blue" alt=""></p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/vatsalunadkat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-</p>
+<h2 align="center">Hey There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
-<h1 align="center">Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<!-- ### :man_technologist: &nbsp;About Me : --->
 
-### :man_technologist: &nbsp;About Me :
-
-I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Backend and DevOps Developer from India.
 
 - 🔭 I’m working as a Software Engineer and contributing to the Backend and DevOps parts for building applications.
-- 🌱 Training to become a Product Enginner. Currently learning [<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django logo" title="Django" height="20" />][tech_tools_anchor] and [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="20" />][tech_tools_anchor].
-- ⚡ In my free time I go for long drives and post videos on <a href="https://www.youtube.com/channel/UCbnjYccwlmFnU2beEtHA6kg">YouTube</a> about my adventures.
-- 🥅 2023 Goals: Contribute to any one Open Source project
+- 🌱 Training to become a Product Enginner. Currently learning [<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django logo" title="Django" height="15" />][tech_tools_anchor] and [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="15" />][tech_tools_anchor].
+- ⚡ In my free time I go on adventures and post videos on  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube logo" height="20" />](https://www.youtube.com/@vatsalunadkat) about my adventures.
+- Feel free to connect with me on <a href="https://www.linkedin.com/in/vatsalunadkat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"></a>
+<!-- - 🥅 2023 Goals: Contribute to any one Open Source project -->
 
 ---
-
+<!--
 ### 🛠 &nbsp;Languages and Tools :
 
 [<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python logo" title="Python" height="25" />][tech_tools_anchor]
@@ -49,7 +46,7 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
 &nbsp;
 
 ---
-
+-->
 ### 🔥 &nbsp; <a href="https://github.com/vatsalunadkat"> My Stats: </a>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vatsalunadkat&theme=dark)](https://git.io/streak-stats)
 
@@ -60,7 +57,7 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
 <!-- ![Stats](https://github-readme-stats.vercel.app/api?username=vatsalunadkat&count_private=true&show_icons=true&theme=dracula) -->
 
 <!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalunadkat&theme=blue-green)](https://git.io/streak-stats) -->
-
+<!--
 ---
 
 ### ✍️ Blog Posts (Outdated):
@@ -78,7 +75,7 @@ I am a Backend and DevOps Developer <img src="https://media.giphy.com/media/WUlp
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium logo" title="Medium" height="25" />](https://medium.com/@vatsalunadkat)
 [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube logo" height="25" />](https://www.youtube.com/@vatsalunadkat)
 
-
+-->
 
 [tech_tools_anchor]: #top
 [learning_now_anchor]: #top
