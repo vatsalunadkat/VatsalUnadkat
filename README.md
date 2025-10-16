@@ -6,11 +6,11 @@
 
 I am a Backend and DevOps Developer!
 
-- 🎓 I am currently persuing a Master's degree in Information Systems at Uppsala University.
+- 🎓 I am currently persuing my 2<sup>nd</sup> Master's degree in Information Systems at Uppsala University.
 - 🔭 I’m working as a Software Engineer and contributing to the Backend and DevOps parts for building applications.
-- 🌱 Training to become a Product Enginner. Currently learning [<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django logo" title="Django" height="15" />][tech_tools_anchor] and [<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React logo" title="React" height="15" />][tech_tools_anchor].
+- 🌱 Training to become a Product Enginner. Currently learning [<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django logo" title="Django" height="15" />][tech_tools_anchor].
 - ⚡ In my free time I go on adventures and post videos on  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube logo" height="20" />](https://www.youtube.com/@vatsalunadkat) about my adventures.
-- Feel free to connect with me on <a href="https://www.linkedin.com/in/vatsalunadkat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"></a>
+- 🔗 Feel free to connect with me on <a href="https://www.linkedin.com/in/vatsalunadkat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"></a>.
 <!-- - 🥅 2023 Goals: Contribute to any one Open Source project -->
 
 ---
