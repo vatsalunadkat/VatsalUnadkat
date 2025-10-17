@@ -1,4 +1,4 @@
-<p align="center"><img src="https://komarev.com/ghpvc/?username=vatsalunadkat&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=vatsalunadkat&style=flat-square&color=brightgreen" alt=""></p>
 
 <h2 align="center">Hey There! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h2>
 
@@ -13,7 +13,6 @@ I am a Backend and DevOps Developer!
 - 🔗 Feel free to connect with me on <a href="https://www.linkedin.com/in/vatsalunadkat/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"></a>.
 <!-- - 🥅 2023 Goals: Contribute to any one Open Source project -->
 
----
 <!--
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -51,7 +50,7 @@ I am a Backend and DevOps Developer!
 ### 🔥 &nbsp; <a href="https://github.com/vatsalunadkat"> My Stats: </a>
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=vatsalunadkat&theme=dark)](https://git.io/streak-stats)
 
-### Pacman
+### ᗧ···ᗣ···ᗣ·· &nbsp; <a href="https://github.com/vatsalunadkat"> Live Contributions Graph Pac-man: </a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsalunadkat/vatsalunadkat/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsalunadkat/vatsalunadkat/output/pacman-contribution-graph.svg">
