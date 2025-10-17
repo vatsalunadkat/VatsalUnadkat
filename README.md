@@ -51,6 +51,13 @@ I am a Backend and DevOps Developer!
 ### 🔥 &nbsp; <a href="https://github.com/vatsalunadkat"> My Stats: </a>
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=vatsalunadkat&theme=dark)](https://git.io/streak-stats)
 
+### Pacman
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vatsalunadkat/vatsalunadkat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vatsalunadkat/vatsalunadkat/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/vatsalunadkat/vatsalunadkat/output/pacman-contribution-graph.svg">
+</picture>
+
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalunadkat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
