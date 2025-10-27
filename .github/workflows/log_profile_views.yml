@@ -1,0 +1,59 @@
+name: Log daily profile views
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Run every day at midnight UTC
+  workflow_dispatch:     # Allow manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  log_views:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch current Komarev counter
+        id: fetch
+        run: |
+          # Fetch the badge SVG for your username
+          svg=$(curl -s "https://komarev.com/ghpvc/?username=vatsalunadkat&style=flat-square&color=brightgreen")
+
+          # Extract the number inside the <text> tag
+          count=$(echo "$svg" | grep -oP '(?<=<text.*>)[0-9]+(?=</text>)' | tail -1)
+          
+          if [ -z "$count" ]; then
+            echo "Failed to extract view count"
+            exit 1
+          fi
+
+          echo "Current count: $count"
+          echo "count=$count" >> $GITHUB_OUTPUT
+
+      - name: Log view count to CSV
+        run: |
+          date=$(date -u +"%Y-%m-%d")
+          count=${{ steps.fetch.outputs.count }}
+
+          # If file doesn’t exist, add header
+          if [ ! -f view_log.csv ]; then
+            echo "date,views" > view_log.csv
+          fi
+
+          # Append today’s record only if not already logged
+          if ! grep -q "$date" view_log.csv; then
+            echo "$date,$count" >> view_log.csv
+          else
+            echo "Entry for $date already exists"
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add view_log.csv
+          git commit -m "Log views for $(date -u +"%Y-%m-%d")" || echo "No new data to commit"
+          git push
