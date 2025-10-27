@@ -57,6 +57,9 @@ I am a Backend and DevOps Developer!
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/vatsalunadkat/vatsalunadkat/output/pacman-contribution-graph.svg">
 </picture>
 
+### (TESTING) Recent Activity
+   ![View Graph](view_graph.svg)
+
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalunadkat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
  -->
