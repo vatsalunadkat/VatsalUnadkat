@@ -1,0 +1,94 @@
+{
+  "history": [
+    {
+      "date": "2025-10-13",
+      "count": 615,
+      "timestamp": "2025-10-13T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-14",
+      "count": 1230,
+      "timestamp": "2025-10-14T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-15",
+      "count": 1846,
+      "timestamp": "2025-10-15T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-16",
+      "count": 2461,
+      "timestamp": "2025-10-16T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-17",
+      "count": 3077,
+      "timestamp": "2025-10-17T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-18",
+      "count": 3692,
+      "timestamp": "2025-10-18T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-19",
+      "count": 4307,
+      "timestamp": "2025-10-19T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-20",
+      "count": 4923,
+      "timestamp": "2025-10-20T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-21",
+      "count": 5538,
+      "timestamp": "2025-10-21T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-22",
+      "count": 6154,
+      "timestamp": "2025-10-22T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-23",
+      "count": 6769,
+      "timestamp": "2025-10-23T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-24",
+      "count": 7384,
+      "timestamp": "2025-10-24T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-25",
+      "count": 8000,
+      "timestamp": "2025-10-25T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-26",
+      "count": 8615,
+      "timestamp": "2025-10-26T20:20:42.284220",
+      "estimated": true
+    },
+    {
+      "date": "2025-10-27",
+      "count": 9231,
+      "timestamp": "2025-10-27T20:20:42.284220",
+      "estimated": false
+    }
+  ]
+}
