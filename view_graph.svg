@@ -75,113 +75,113 @@
     <text x="400.0" y="25" text-anchor="middle" class="title-text">GitHub Profile Views</text>
     
     <line x1="60" y1="40.0" x2="760" y2="40.0" class="grid-line"/>
-    <text x="50" y="44.0" text-anchor="end" class="axis-text">19</text>
+    <text x="50" y="44.0" text-anchor="end" class="axis-text">9</text>
     <line x1="60" y1="90.0" x2="760" y2="90.0" class="grid-line"/>
-    <text x="50" y="94.0" text-anchor="end" class="axis-text">14</text>
+    <text x="50" y="94.0" text-anchor="end" class="axis-text">7</text>
     <line x1="60" y1="140.0" x2="760" y2="140.0" class="grid-line"/>
-    <text x="50" y="144.0" text-anchor="end" class="axis-text">9</text>
+    <text x="50" y="144.0" text-anchor="end" class="axis-text">4</text>
     <line x1="60" y1="190.0" x2="760" y2="190.0" class="grid-line"/>
-    <text x="50" y="194.0" text-anchor="end" class="axis-text">4</text>
+    <text x="50" y="194.0" text-anchor="end" class="axis-text">2</text>
     <line x1="60" y1="240.0" x2="760" y2="240.0" class="grid-line"/>
     <text x="50" y="244.0" text-anchor="end" class="axis-text">0</text>
-    <path d="M 60 240 L 60.0 189.49494949494948 L 113.84615384615384 219.7979797979798 L 167.69230769230768 199.59595959595958 L 221.53846153846155 229.8989898989899 L 275.38461538461536 219.7979797979798 L 329.2307692307692 229.8989898989899 L 383.0769230769231 189.49494949494948 L 436.9230769230769 219.7979797979798 L 490.7692307692308 219.7979797979798 L 544.6153846153845 229.8989898989899 L 598.4615384615385 229.8989898989899 L 652.3076923076923 219.7979797979798 L 706.1538461538462 229.8989898989899 L 760.0 58.18181818181819 L 760.0 240 Z" class="area-path"/>
-    <path d="M 60.0 189.49494949494948 L 113.84615384615384 219.7979797979798 L 167.69230769230768 199.59595959595958 L 221.53846153846155 229.8989898989899 L 275.38461538461536 219.7979797979798 L 329.2307692307692 229.8989898989899 L 383.0769230769231 189.49494949494948 L 436.9230769230769 219.7979797979798 L 490.7692307692308 219.7979797979798 L 544.6153846153845 229.8989898989899 L 598.4615384615385 229.8989898989899 L 652.3076923076923 219.7979797979798 L 706.1538461538462 229.8989898989899 L 760.0 58.18181818181819" class="line-path"/>
+    <path d="M 60 240 L 60.0 138.989898989899 L 113.84615384615384 199.59595959595958 L 167.69230769230768 159.1919191919192 L 221.53846153846155 219.7979797979798 L 275.38461538461536 199.59595959595958 L 329.2307692307692 219.7979797979798 L 383.0769230769231 98.58585858585857 L 436.9230769230769 159.1919191919192 L 490.7692307692308 159.1919191919192 L 544.6153846153845 138.989898989899 L 598.4615384615385 199.59595959595958 L 652.3076923076923 219.7979797979798 L 706.1538461538462 199.59595959595958 L 760.0 58.18181818181819 L 760.0 240 Z" class="area-path"/>
+    <path d="M 60.0 138.989898989899 L 113.84615384615384 199.59595959595958 L 167.69230769230768 159.1919191919192 L 221.53846153846155 219.7979797979798 L 275.38461538461536 199.59595959595958 L 329.2307692307692 219.7979797979798 L 383.0769230769231 98.58585858585857 L 436.9230769230769 159.1919191919192 L 490.7692307692308 159.1919191919192 L 544.6153846153845 138.989898989899 L 598.4615384615385 199.59595959595958 L 652.3076923076923 219.7979797979798 L 706.1538461538462 199.59595959595958 L 760.0 58.18181818181819" class="line-path"/>
     <g class="data-point-group">
-        <circle cx="60.0" cy="189.49494949494948" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="60.0" cy="138.989898989899" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="5" y="149.49494949494948" width="125" height="28" class="tooltip-bg"/>
-            <text x="67.5" y="167.49494949494948" text-anchor="middle">Oct 14: 5 views</text>
+            <rect x="5" y="98.98989898989899" width="125" height="28" class="tooltip-bg"/>
+            <text x="67.5" y="116.98989898989899" text-anchor="middle">Oct 14: 5 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="113.84615384615384" cy="219.7979797979798" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="113.84615384615384" cy="199.59595959595958" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="51.34615384615384" y="179.7979797979798" width="125" height="28" class="tooltip-bg"/>
-            <text x="113.84615384615384" y="197.7979797979798" text-anchor="middle">Oct 15: 2 views</text>
+            <rect x="51.34615384615384" y="159.59595959595958" width="125" height="28" class="tooltip-bg"/>
+            <text x="113.84615384615384" y="177.59595959595958" text-anchor="middle">Oct 15: 2 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="167.69230769230768" cy="199.59595959595958" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="167.69230769230768" cy="159.1919191919192" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="105.19230769230768" y="159.59595959595958" width="125" height="28" class="tooltip-bg"/>
-            <text x="167.69230769230768" y="177.59595959595958" text-anchor="middle">Oct 16: 4 views</text>
+            <rect x="105.19230769230768" y="119.1919191919192" width="125" height="28" class="tooltip-bg"/>
+            <text x="167.69230769230768" y="137.1919191919192" text-anchor="middle">Oct 16: 4 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="221.53846153846155" cy="229.8989898989899" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="221.53846153846155" cy="219.7979797979798" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="159.03846153846155" y="189.8989898989899" width="125" height="28" class="tooltip-bg"/>
-            <text x="221.53846153846155" y="207.8989898989899" text-anchor="middle">Oct 17: 1 views</text>
+            <rect x="159.03846153846155" y="179.7979797979798" width="125" height="28" class="tooltip-bg"/>
+            <text x="221.53846153846155" y="197.7979797979798" text-anchor="middle">Oct 17: 1 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="275.38461538461536" cy="219.7979797979798" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="275.38461538461536" cy="199.59595959595958" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="212.88461538461536" y="179.7979797979798" width="125" height="28" class="tooltip-bg"/>
-            <text x="275.38461538461536" y="197.7979797979798" text-anchor="middle">Oct 18: 2 views</text>
+            <rect x="212.88461538461536" y="159.59595959595958" width="125" height="28" class="tooltip-bg"/>
+            <text x="275.38461538461536" y="177.59595959595958" text-anchor="middle">Oct 18: 2 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="329.2307692307692" cy="229.8989898989899" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="329.2307692307692" cy="219.7979797979798" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="266.7307692307692" y="189.8989898989899" width="125" height="28" class="tooltip-bg"/>
-            <text x="329.2307692307692" y="207.8989898989899" text-anchor="middle">Oct 19: 1 views</text>
+            <rect x="266.7307692307692" y="179.7979797979798" width="125" height="28" class="tooltip-bg"/>
+            <text x="329.2307692307692" y="197.7979797979798" text-anchor="middle">Oct 19: 1 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="383.0769230769231" cy="189.49494949494948" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="383.0769230769231" cy="98.58585858585857" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="320.5769230769231" y="149.49494949494948" width="125" height="28" class="tooltip-bg"/>
-            <text x="383.0769230769231" y="167.49494949494948" text-anchor="middle">Oct 20: 5 views</text>
+            <rect x="320.5769230769231" y="58.585858585858574" width="125" height="28" class="tooltip-bg"/>
+            <text x="383.0769230769231" y="76.58585858585857" text-anchor="middle">Oct 20: 7 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="436.9230769230769" cy="219.7979797979798" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="436.9230769230769" cy="159.1919191919192" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="374.4230769230769" y="179.7979797979798" width="125" height="28" class="tooltip-bg"/>
-            <text x="436.9230769230769" y="197.7979797979798" text-anchor="middle">Oct 21: 2 views</text>
+            <rect x="374.4230769230769" y="119.1919191919192" width="125" height="28" class="tooltip-bg"/>
+            <text x="436.9230769230769" y="137.1919191919192" text-anchor="middle">Oct 21: 4 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="490.7692307692308" cy="219.7979797979798" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="490.7692307692308" cy="159.1919191919192" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="428.2692307692308" y="179.7979797979798" width="125" height="28" class="tooltip-bg"/>
-            <text x="490.7692307692308" y="197.7979797979798" text-anchor="middle">Oct 22: 2 views</text>
+            <rect x="428.2692307692308" y="119.1919191919192" width="125" height="28" class="tooltip-bg"/>
+            <text x="490.7692307692308" y="137.1919191919192" text-anchor="middle">Oct 22: 4 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="544.6153846153845" cy="229.8989898989899" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="544.6153846153845" cy="138.989898989899" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="482.1153846153845" y="189.8989898989899" width="125" height="28" class="tooltip-bg"/>
-            <text x="544.6153846153845" y="207.8989898989899" text-anchor="middle">Oct 23: 1 views</text>
+            <rect x="482.1153846153845" y="98.98989898989899" width="125" height="28" class="tooltip-bg"/>
+            <text x="544.6153846153845" y="116.98989898989899" text-anchor="middle">Oct 23: 5 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="598.4615384615385" cy="229.8989898989899" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="598.4615384615385" cy="199.59595959595958" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="535.9615384615385" y="189.8989898989899" width="125" height="28" class="tooltip-bg"/>
-            <text x="598.4615384615385" y="207.8989898989899" text-anchor="middle">Oct 24: 1 views</text>
+            <rect x="535.9615384615385" y="159.59595959595958" width="125" height="28" class="tooltip-bg"/>
+            <text x="598.4615384615385" y="177.59595959595958" text-anchor="middle">Oct 24: 2 views</text>
         </g>
     </g>
     <g class="data-point-group">
         <circle cx="652.3076923076923" cy="219.7979797979798" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
             <rect x="589.8076923076923" y="179.7979797979798" width="125" height="28" class="tooltip-bg"/>
-            <text x="652.3076923076923" y="197.7979797979798" text-anchor="middle">Oct 25: 2 views</text>
+            <text x="652.3076923076923" y="197.7979797979798" text-anchor="middle">Oct 25: 1 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="706.1538461538462" cy="229.8989898989899" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="706.1538461538462" cy="199.59595959595958" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="643.6538461538462" y="189.8989898989899" width="125" height="28" class="tooltip-bg"/>
-            <text x="706.1538461538462" y="207.8989898989899" text-anchor="middle">Oct 26: 1 views</text>
+            <rect x="643.6538461538462" y="159.59595959595958" width="125" height="28" class="tooltip-bg"/>
+            <text x="706.1538461538462" y="177.59595959595958" text-anchor="middle">Oct 26: 2 views</text>
         </g>
     </g>
     <g class="data-point-group">
         <circle cx="760.0" cy="58.18181818181819" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="663" y="18.181818181818187" width="132" height="28" class="tooltip-bg"/>
-            <text x="729.0" y="36.18181818181819" text-anchor="middle">Oct 27: 18 views</text>
+            <rect x="670" y="18.181818181818187" width="125" height="28" class="tooltip-bg"/>
+            <text x="732.5" y="36.18181818181819" text-anchor="middle">Oct 27: 9 views</text>
         </g>
     </g>
     <text x="60.0" y="260" text-anchor="middle" class="axis-text">10/14</text>
