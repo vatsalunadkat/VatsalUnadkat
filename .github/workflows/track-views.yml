@@ -39,6 +39,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "📊 Update profile views data"
+            git commit -m "[AUTO] Update profile views data"
             git push
           fi
