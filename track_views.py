@@ -115,14 +115,45 @@ def main():
     # Load existing data
     data = load_data()
     
-    # Add new entry
-    today = datetime.now().strftime("%Y-%m-%d")
-    data['history'].append({
-        'date': today,
-        'count': current_views,
-        'timestamp': datetime.now().isoformat()
-    })
-    
+    # If this is the first run, backfill with estimated historical data
+    if len(data['history']) == 0:
+        print("First run detected - backfilling historical data")
+        today = datetime.now()
+        
+        # Create 15 days of historical data
+        # Assume roughly equal daily views leading up to current total
+        estimated_daily = current_views / 15 if current_views > 0 else 0
+        
+        for i in range(14, -1, -1):
+            date = (today - timedelta(days=i)).strftime("%Y-%m-%d")
+            # Cumulative count up to that day
+            cumulative = int(current_views - (estimated_daily * i))
+            data['history'].append({
+                'date': date,
+                'count': max(0, cumulative),
+                'timestamp': (today - timedelta(days=i)).isoformat(),
+                'estimated': i > 0  # Mark all but today as estimated
+            })
+        print(f"Added {len(data['history'])} days of estimated historical data")
+    else:
+        # Normal operation - add today's entry
+        today = datetime.now().strftime("%Y-%m-%d")
+        
+        # Check if we already have today's entry
+        if data['history'] and data['history'][-1]['date'] == today:
+            print(f"Updating today's entry")
+            data['history'][-1] = {
+                'date': today,
+                'count': current_views,
+                'timestamp': datetime.now().isoformat()
+            }
+        else:
+            data['history'].append({
+                'date': today,
+                'count': current_views,
+                'timestamp': datetime.now().isoformat()
+            })
+
     save_data(data)
     print(f"Data saved with {len(data['history'])} entries")
     
@@ -135,7 +166,8 @@ def main():
     if daily_views:
         print(f"\nLast 5 days:")
         for entry in daily_views[-5:]:
-            print(f"  {entry['date']}: {entry['views']} views")
+            estimated_mark = " (estimated)" if any(h.get('estimated') for h in data['history'] if h['date'] == entry['date']) else ""
+            print(f"  {entry['date']}: {entry['views']} views{estimated_mark}")
 
 if __name__ == "__main__":
     main()
