@@ -17,18 +17,22 @@ def get_current_views():
         svg_content = response.text
         print(f"Fetched SVG content (first 500 chars): {svg_content[:500]}")
         
-        # Try multiple patterns to find the count
+        # The count appears in text elements after "Profile views"
+        # Look for numbers with optional commas in text elements
         import re
-        patterns = [
-            r'>(\d+)</text>',
-            r'<text[^>]*>(\d+)</text>',
-            r'visitors[:\s]+(\d+)',
-        ]
         
-        for pattern in patterns:
-            match = re.search(pattern, svg_content)
-            if match:
-                count = int(match.group(1))
+        # Find all text elements with numbers (including commas)
+        pattern = r'<text[^>]*>([0-9,]+)</text>'
+        matches = re.findall(pattern, svg_content)
+        
+        print(f"Found text elements: {matches}")
+        
+        # The view count is the number that appears (not "Profile views")
+        for match in matches:
+            # Remove commas and try to convert to int
+            cleaned = match.replace(',', '')
+            if cleaned.isdigit():
+                count = int(cleaned)
                 print(f"Found count: {count}")
                 return count
         
