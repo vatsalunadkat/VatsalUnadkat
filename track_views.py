@@ -14,15 +14,29 @@ def get_current_views():
     url = f"https://komarev.com/ghpvc/?username={USERNAME}"
     try:
         response = requests.get(url)
-        # The badge is an SVG, parse the count from it
         svg_content = response.text
-        # Extract number from SVG text (format varies, look for the count)
+        print(f"Fetched SVG content (first 500 chars): {svg_content[:500]}")
+        
+        # Try multiple patterns to find the count
         import re
-        match = re.search(r'>(\d+)</text>', svg_content)
-        if match:
-            return int(match.group(1))
+        patterns = [
+            r'>(\d+)</text>',
+            r'<text[^>]*>(\d+)</text>',
+            r'visitors[:\s]+(\d+)',
+        ]
+        
+        for pattern in patterns:
+            match = re.search(pattern, svg_content)
+            if match:
+                count = int(match.group(1))
+                print(f"Found count: {count}")
+                return count
+        
+        print("Could not find view count in SVG")
     except Exception as e:
         print(f"Error fetching views: {e}")
+        import traceback
+        traceback.print_exc()
     return None
 
 def load_data():
@@ -108,12 +122,12 @@ def main():
     save_data(data)
     print(f"Data saved with {len(data['history'])} entries")
     
-    # generate graph
+    # Calculate and generate graph
     daily_views = calculate_daily_views(data['history'])
     if daily_views:
         generate_graph(daily_views)
     
-    # Print
+    # Print summary
     if daily_views:
         print(f"\nLast 5 days:")
         for entry in daily_views[-5:]:
