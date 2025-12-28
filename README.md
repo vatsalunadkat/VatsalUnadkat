@@ -49,7 +49,7 @@ I am a Backend and DevOps Developer!
 -->
 ### 🔥 &nbsp; <a href="https://github.com/vatsalunadkat"> My Stats: </a>
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=vatsalunadkat&theme=dark)](https://git.io/streak-stats) &nbsp;
-<img alt="git-wrapped-2025" src="https://github.com/vatsalunadkat/VatsalUnadkat/blob/923bd2895f4e990f3434e6ea9ea2af0f67a703ee/git-wrapped-vatsalunadkat.png" width="115">
+<img alt="git-wrapped-2025" src="https://github.com/vatsalunadkat/VatsalUnadkat/blob/923bd2895f4e990f3434e6ea9ea2af0f67a703ee/git-wrapped-vatsalunadkat.png" width="110">
 
 
 ### ᗧ···ᗣ···ᗣ·· &nbsp; <a href="https://github.com/vatsalunadkat"> Live Contributions Graph Pac-man: </a>
