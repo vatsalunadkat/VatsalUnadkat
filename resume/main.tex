@@ -1,0 +1,191 @@
+%-------------------------
+% Resume in Latex
+% Author : Jake Gutierrez
+% Based off of: https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{fontspec}
+\setmainfont{Calibri}
+
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{tabularx}
+\usepackage{xcolor}
+
+
+%----------FONT OPTIONS----------
+% Using Calibri font via fontspec
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+% \pdfgentounicode=1 (not compatible with XeLaTeX)
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    \textbf{\Huge \scshape Vatsal Unadkat} \\ \vspace{1pt}
+    \small Uppsala, Sweden $|$ \href{mailto:vatsal.unadkat@gmail.com}{\underline{vatsal.unadkat@gmail.com}} $|$ 
+    \href{https://www.linkedin.com/in/vatsalunadkat}{\underline{linkedin.com/in/vatsalunadkat}} $|$
+    \href{https://www.github.com/vatsalunadkat}{\underline{github.com/vatsalunadkat}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Uppsala University}{Sweden}
+      {Master's in Information Systems}{Graduation in 2027}
+    \resumeSubheading
+      {Georgia Institute of Technology (Georgia Tech)}{USA}
+      {Master's in Computer Science (MsCS)}{Graduated in 2025}
+    \resumeSubheading
+      {Savitribai Phule Pune University (COEP)}{India}
+      {Bachelor's in Computer Engineering}{Graduated in 2021}
+  \resumeSubHeadingListEnd
+  
+  \vspace{-10pt}
+  \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Certifications}{: Data Science Specialization (IBM), Web Applications Specialization (University of Michigan), Foundations of UX Design (Google), Human-Centered Design for Inclusive Innovation (University of Toronto), + 10 more}
+    }}
+  \end{itemize}
+
+
+%-----------EXPERIENCE-----------
+\section{Work Experience - 5+ years}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Lead Software Engineer}{Sept 2024 -- Aug 2025}
+      {Syneos Health (Biotechnology Research)}{}
+      \resumeItemListStart
+        \resumeItem{Led end-to-end design and development of Python Django web application serving 15,000+ users; architected system optimizations and automation solutions that improved operational efficiency by 30\% across workflows}
+        \resumeItem{Partnered with C-suite and business units to gather requirements and build prototypes delivering data-driven recommendations; integrated application with Microsoft Power Platform (Power BI, Power Apps) for automated business intelligence dashboards that shaped product roadmaps}
+        \resumeItem{Official Title: Lead Clinical Development Operations Analyst}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Associate Backend Engineer}{Sept 2022 -- Aug 2024}
+      {Ridecell Inc. (Mobility and Logistics SaaS)}{}
+      \resumeItemListStart
+        \resumeItem{Won company-wide hackathon 2023 by developing AI-powered translation solution that reduced approval cycles from 30 days to 1 day, saving 20+ hours monthly}
+        \resumeItem{Drove rapid feature development using Python Django and REST framework for international expansion, enabling successful product launches in UK, Spain, Germany, and Poland}
+        \resumeItem{Redesigned legacy codebase architecture, eliminating technical debt and establishing scalable solutions that reduced bug reports by 35\%}
+        \resumeItem{Mentored 3 interns and conducted code reviews focusing on performance optimization and best practices}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Member of Technical Staff (Backend and DevOps)}{July 2021 -- Aug 2022}
+      {Mindstix Software Labs (Consulting SaaS)}{}
+      \resumeItemListStart
+        \resumeItem{Architected and deployed client-facing backend system using PHP (Laravel), MySQL, and AWS (RDS, ELB, EC2), following Agile methodology and maintaining 95\%+ code quality scores}
+        \resumeItem{Contributed to architecture of 2 more projects (Python Django \& Node.js/TypeScript) leveraging PostgreSQL, GraphQL (Apollo) and Azure ecosystem (CosmosDB, Key Vault, App Service)}
+        \resumeItem{Built full-stack internal interview scheduling platform that eliminated 10+ hours of manual HR work weekly}
+        \resumeItem{Created custom PHP training program that expedited onboarding time by 2 weeks}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Software Trainee}{Nov 2020 -- June 2021}
+      {iSynergy TechSys Pvt. Ltd. (Consulting SaaS)}{}
+      \resumeItemListStart
+        \resumeItem{Owned complete development lifecycle of Android application for international client, collaborating with cross-functional teams to deliver intuitive UX following Material Design guidelines}
+        \resumeItem{Bachelor's thesis: Developed a Machine Learning (RNN LSTM) forecasting model for hospitality revenue management, improving occupancy prediction accuracy}
+      \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+
+%-----------HONOURS & AWARDS-----------
+\section{Honours \& Awards}
+  \resumeSubHeadingListStart
+    \resumeProjectHeading
+      {\textbf{Winner of Ridecell Onsite Hackathon 2023}}{13 Jan 2023}
+      \resumeItemListStart
+        \resumeItem{Issued by Aarjav Trivedi, CEO Ridecell Inc.}
+      \resumeItemListEnd
+    \resumeProjectHeading
+      {\textbf{Certificate for Outstanding Commitment}}{26 Oct 2018}
+      \resumeItemListStart
+        \resumeItem{Issued by Joy George, VP and Head of HR, CDK Global}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+%-------------------------------------------
+\end{document}
