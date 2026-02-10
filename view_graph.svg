@@ -84,127 +84,127 @@
     <text x="50" y="194.0" text-anchor="end" class="axis-text">1</text>
     <line x1="60" y1="240.0" x2="760" y2="240.0" class="grid-line"/>
     <text x="50" y="244.0" text-anchor="end" class="axis-text">0</text>
-    <path d="M 60 240 L 60.0 240.0 L 110.0 214.02597402597402 L 160.0 240.0 L 210.0 240.0 L 260.0 240.0 L 310.0 188.05194805194805 L 360.0 136.10389610389612 L 410.0 84.15584415584414 L 460.0 240.0 L 510.00000000000006 58.18181818181819 L 560.0 240.0 L 610.0 214.02597402597402 L 660.0 240.0 L 710.0 240.0 L 760.0 240.0 L 760.0 240 Z" class="area-path"/>
-    <path d="M 60.0 240.0 L 110.0 214.02597402597402 L 160.0 240.0 L 210.0 240.0 L 260.0 240.0 L 310.0 188.05194805194805 L 360.0 136.10389610389612 L 410.0 84.15584415584414 L 460.0 240.0 L 510.00000000000006 58.18181818181819 L 560.0 240.0 L 610.0 214.02597402597402 L 660.0 240.0 L 710.0 240.0 L 760.0 240.0" class="line-path"/>
+    <path d="M 60 240 L 60.0 214.02597402597402 L 110.0 240.0 L 160.0 240.0 L 210.0 240.0 L 260.0 188.05194805194805 L 310.0 136.10389610389612 L 360.0 84.15584415584414 L 410.0 240.0 L 460.0 58.18181818181819 L 510.00000000000006 240.0 L 560.0 214.02597402597402 L 610.0 240.0 L 660.0 240.0 L 710.0 240.0 L 760.0 240.0 L 760.0 240 Z" class="area-path"/>
+    <path d="M 60.0 214.02597402597402 L 110.0 240.0 L 160.0 240.0 L 210.0 240.0 L 260.0 188.05194805194805 L 310.0 136.10389610389612 L 360.0 84.15584415584414 L 410.0 240.0 L 460.0 58.18181818181819 L 510.00000000000006 240.0 L 560.0 214.02597402597402 L 610.0 240.0 L 660.0 240.0 L 710.0 240.0 L 760.0 240.0" class="line-path"/>
     <g class="data-point-group">
-        <circle cx="60.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="60.0" cy="214.02597402597402" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="5" y="200.0" width="125" height="28" class="tooltip-bg"/>
-            <text x="67.5" y="218.0" text-anchor="middle">Jan 26: 0 views</text>
+            <rect x="5" y="174.02597402597402" width="125" height="28" class="tooltip-bg"/>
+            <text x="67.5" y="192.02597402597402" text-anchor="middle">Jan 27: 1 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="110.0" cy="214.02597402597402" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="110.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="47.5" y="174.02597402597402" width="125" height="28" class="tooltip-bg"/>
-            <text x="110.0" y="192.02597402597402" text-anchor="middle">Jan 27: 1 views</text>
+            <rect x="47.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
+            <text x="110.0" y="218.0" text-anchor="middle">Jan 28: 0 views</text>
         </g>
     </g>
     <g class="data-point-group">
         <circle cx="160.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
             <rect x="97.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
-            <text x="160.0" y="218.0" text-anchor="middle">Jan 28: 0 views</text>
+            <text x="160.0" y="218.0" text-anchor="middle">Jan 29: 0 views</text>
         </g>
     </g>
     <g class="data-point-group">
         <circle cx="210.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
             <rect x="147.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
-            <text x="210.0" y="218.0" text-anchor="middle">Jan 29: 0 views</text>
+            <text x="210.0" y="218.0" text-anchor="middle">Jan 30: 0 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="260.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="260.0" cy="188.05194805194805" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="197.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
-            <text x="260.0" y="218.0" text-anchor="middle">Jan 30: 0 views</text>
+            <rect x="197.5" y="148.05194805194805" width="125" height="28" class="tooltip-bg"/>
+            <text x="260.0" y="166.05194805194805" text-anchor="middle">Jan 31: 2 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="310.0" cy="188.05194805194805" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="310.0" cy="136.10389610389612" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="247.5" y="148.05194805194805" width="125" height="28" class="tooltip-bg"/>
-            <text x="310.0" y="166.05194805194805" text-anchor="middle">Jan 31: 2 views</text>
+            <rect x="247.5" y="96.10389610389612" width="125" height="28" class="tooltip-bg"/>
+            <text x="310.0" y="114.10389610389612" text-anchor="middle">Feb 01: 4 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="360.0" cy="136.10389610389612" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="360.0" cy="84.15584415584414" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="297.5" y="96.10389610389612" width="125" height="28" class="tooltip-bg"/>
-            <text x="360.0" y="114.10389610389612" text-anchor="middle">Feb 01: 4 views</text>
+            <rect x="297.5" y="44.155844155844136" width="125" height="28" class="tooltip-bg"/>
+            <text x="360.0" y="62.155844155844136" text-anchor="middle">Feb 02: 6 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="410.0" cy="84.15584415584414" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="410.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="347.5" y="44.155844155844136" width="125" height="28" class="tooltip-bg"/>
-            <text x="410.0" y="62.155844155844136" text-anchor="middle">Feb 02: 6 views</text>
+            <rect x="347.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
+            <text x="410.0" y="218.0" text-anchor="middle">Feb 03: 0 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="460.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="460.0" cy="58.18181818181819" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="397.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
-            <text x="460.0" y="218.0" text-anchor="middle">Feb 03: 0 views</text>
+            <rect x="397.5" y="18.181818181818187" width="125" height="28" class="tooltip-bg"/>
+            <text x="460.0" y="36.18181818181819" text-anchor="middle">Feb 04: 7 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="510.00000000000006" cy="58.18181818181819" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="510.00000000000006" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="447.50000000000006" y="18.181818181818187" width="125" height="28" class="tooltip-bg"/>
-            <text x="510.00000000000006" y="36.18181818181819" text-anchor="middle">Feb 04: 7 views</text>
+            <rect x="447.50000000000006" y="200.0" width="125" height="28" class="tooltip-bg"/>
+            <text x="510.00000000000006" y="218.0" text-anchor="middle">Feb 05: 0 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="560.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="560.0" cy="214.02597402597402" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="497.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
-            <text x="560.0" y="218.0" text-anchor="middle">Feb 05: 0 views</text>
+            <rect x="497.5" y="174.02597402597402" width="125" height="28" class="tooltip-bg"/>
+            <text x="560.0" y="192.02597402597402" text-anchor="middle">Feb 06: 1 views</text>
         </g>
     </g>
     <g class="data-point-group">
-        <circle cx="610.0" cy="214.02597402597402" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
+        <circle cx="610.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
-            <rect x="547.5" y="174.02597402597402" width="125" height="28" class="tooltip-bg"/>
-            <text x="610.0" y="192.02597402597402" text-anchor="middle">Feb 06: 1 views</text>
+            <rect x="547.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
+            <text x="610.0" y="218.0" text-anchor="middle">Feb 07: 0 views</text>
         </g>
     </g>
     <g class="data-point-group">
         <circle cx="660.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
             <rect x="597.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
-            <text x="660.0" y="218.0" text-anchor="middle">Feb 07: 0 views</text>
+            <text x="660.0" y="218.0" text-anchor="middle">Feb 08: 0 views</text>
         </g>
     </g>
     <g class="data-point-group">
         <circle cx="710.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
             <rect x="647.5" y="200.0" width="125" height="28" class="tooltip-bg"/>
-            <text x="710.0" y="218.0" text-anchor="middle">Feb 08: 0 views</text>
+            <text x="710.0" y="218.0" text-anchor="middle">Feb 09: 0 views</text>
         </g>
     </g>
     <g class="data-point-group">
         <circle cx="760.0" cy="240.0" r="4" fill="#58a6ff" class="data-point" filter="url(#glow)"/>
         <g class="tooltip">
             <rect x="670" y="200.0" width="125" height="28" class="tooltip-bg"/>
-            <text x="732.5" y="218.0" text-anchor="middle">Feb 09: 0 views</text>
+            <text x="732.5" y="218.0" text-anchor="middle">Feb 10: 0 views</text>
         </g>
     </g>
-    <text x="60.0" y="260" text-anchor="middle" class="axis-text">01/26</text>
-    <text x="110.0" y="260" text-anchor="middle" class="axis-text">01/27</text>
-    <text x="160.0" y="260" text-anchor="middle" class="axis-text">01/28</text>
-    <text x="210.0" y="260" text-anchor="middle" class="axis-text">01/29</text>
-    <text x="260.0" y="260" text-anchor="middle" class="axis-text">01/30</text>
-    <text x="310.0" y="260" text-anchor="middle" class="axis-text">01/31</text>
-    <text x="360.0" y="260" text-anchor="middle" class="axis-text">02/01</text>
-    <text x="410.0" y="260" text-anchor="middle" class="axis-text">02/02</text>
-    <text x="460.0" y="260" text-anchor="middle" class="axis-text">02/03</text>
-    <text x="510.00000000000006" y="260" text-anchor="middle" class="axis-text">02/04</text>
-    <text x="560.0" y="260" text-anchor="middle" class="axis-text">02/05</text>
-    <text x="610.0" y="260" text-anchor="middle" class="axis-text">02/06</text>
-    <text x="660.0" y="260" text-anchor="middle" class="axis-text">02/07</text>
-    <text x="710.0" y="260" text-anchor="middle" class="axis-text">02/08</text>
-    <text x="760.0" y="260" text-anchor="middle" class="axis-text">02/09</text>
+    <text x="60.0" y="260" text-anchor="middle" class="axis-text">01/27</text>
+    <text x="110.0" y="260" text-anchor="middle" class="axis-text">01/28</text>
+    <text x="160.0" y="260" text-anchor="middle" class="axis-text">01/29</text>
+    <text x="210.0" y="260" text-anchor="middle" class="axis-text">01/30</text>
+    <text x="260.0" y="260" text-anchor="middle" class="axis-text">01/31</text>
+    <text x="310.0" y="260" text-anchor="middle" class="axis-text">02/01</text>
+    <text x="360.0" y="260" text-anchor="middle" class="axis-text">02/02</text>
+    <text x="410.0" y="260" text-anchor="middle" class="axis-text">02/03</text>
+    <text x="460.0" y="260" text-anchor="middle" class="axis-text">02/04</text>
+    <text x="510.00000000000006" y="260" text-anchor="middle" class="axis-text">02/05</text>
+    <text x="560.0" y="260" text-anchor="middle" class="axis-text">02/06</text>
+    <text x="610.0" y="260" text-anchor="middle" class="axis-text">02/07</text>
+    <text x="660.0" y="260" text-anchor="middle" class="axis-text">02/08</text>
+    <text x="710.0" y="260" text-anchor="middle" class="axis-text">02/09</text>
+    <text x="760.0" y="260" text-anchor="middle" class="axis-text">02/10</text>
     <text x="20" y="150.0" text-anchor="middle" transform="rotate(-90 20 150.0)" class="axis-text">Daily Views</text>
 </svg>
